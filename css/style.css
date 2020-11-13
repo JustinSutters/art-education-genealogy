@@ -583,3 +583,12 @@ cursor: pointer;
 display: none;
 }
 
+#notes {
+	margin:0 auto;	
+	position: fixed;
+	right: 40px;
+	bottom: 5px;
+	z-index:0;
+	color: #fff;
+}
+

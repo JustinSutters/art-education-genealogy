@@ -592,3 +592,8 @@ display: none;
 	color: #fff;
 }
 
+#notes a:link
+{
+	color:#FF8C00;
+}
+

@@ -586,8 +586,8 @@ display: none;
 #notes {
 	margin:0 auto;	
 	position: fixed;
-	right: 40px;
-	bottom: 5px;
+	bottom: 40px;
+	right:280px;
 	z-index:0;
 	color: #fff;
 }
